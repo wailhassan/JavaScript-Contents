@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Victor+Mono:ital,wght@0,100..700;1,100..700&display=swap");
+/* font-family: "Victor Mono", monospace; */
+
+* {
+  margin: 10px;
+  padding: 2px;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  line-height: 1.6;
+}
+
+ul {
+  font-size: 1rem;
+  list-style: none;
+}
+
+li {
+  font-family: "Victor Mono", monospace;
+  font-size: 1.2rem;
+  margin: 5px 40px;
+  list-style: none;
+  color: blue;
+}
+p {
+  font-family: Arial, sans-serif;
+  font-size: 1.4rem;
+  color: #b30404;
+  margin: 5px 20px;
+  font-weight: bold;
+}
